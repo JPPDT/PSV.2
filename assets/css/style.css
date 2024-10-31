@@ -267,7 +267,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0ca1c7
 
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/Banner.png)no-repeat;
+    background:url(../images/welcome-hero/Banner.jpg)no-repeat;
     background-position:center;
     background-size: 100% 100%;
     background-color: white;
@@ -542,9 +542,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #0ca1c7
 
 .single-how-works{
     text-align: center;
-    padding:50px 42px;
-    border-radius: 3px;
-    box-shadow: 0 0px 5px rgba(71,71,71,.2);
+    padding:50px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
     -webkit-transition: .3s linear; 
     -moz-transition:.3s linear; 
