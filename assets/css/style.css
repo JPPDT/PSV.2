@@ -1233,6 +1233,8 @@ margin: 1%;
 }
 
 .AVP{
+    position: relative;
     display: flex;
-    justify-content: center;
+    left: 500px;
+    right: 500px;
 }
