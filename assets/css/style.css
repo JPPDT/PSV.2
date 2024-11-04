@@ -1231,3 +1231,8 @@ margin: 1%;
 .Chair:hover{
     transform: scale(1.1);
 }
+
+.AVP{
+    display: flex;
+    justify-content: center;
+}
